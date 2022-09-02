@@ -15,5 +15,5 @@ d2 = {"Nilesh":"Bhajiya", "Vijay":"Bhindi", "Umesh": "laptop", "120":"Computer",
 # print(d2)
 # d2.update({"Bhavesh": "Farmer"})
 # print(d2)
-print(d2.keys())
-print(d2.items())
+# print(d2.keys())
+# print(d2.items())

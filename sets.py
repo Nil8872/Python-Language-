@@ -1,0 +1,15 @@
+s = set([1,2,3,4,5])
+# print(type(s))
+s.add(10)
+s.remove(2)
+s.add(12)
+s.add(19)
+s1 = set([2,3,6,7,9])
+l = [1,2,3,4,5]
+l.pop()
+print(l)
+# s1.pop()
+# s1.pop()
+# s1.pop()
+# s1.pop()
+ 
